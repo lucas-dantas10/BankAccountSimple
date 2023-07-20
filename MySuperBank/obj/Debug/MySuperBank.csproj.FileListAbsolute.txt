@@ -1,0 +1,8 @@
+C:\Users\Lucas\source\repos\MySuperBank\MySuperBank\bin\Debug\MySuperBank.exe.config
+C:\Users\Lucas\source\repos\MySuperBank\MySuperBank\bin\Debug\MySuperBank.exe
+C:\Users\Lucas\source\repos\MySuperBank\MySuperBank\bin\Debug\MySuperBank.pdb
+C:\Users\Lucas\source\repos\MySuperBank\MySuperBank\obj\Debug\MySuperBank.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\MySuperBank\MySuperBank\obj\Debug\MySuperBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\source\repos\MySuperBank\MySuperBank\obj\Debug\MySuperBank.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\MySuperBank\MySuperBank\obj\Debug\MySuperBank.exe
+C:\Users\Lucas\source\repos\MySuperBank\MySuperBank\obj\Debug\MySuperBank.pdb
