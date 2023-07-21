@@ -28,7 +28,6 @@ namespace MySuperBank
         private List<Transaction> allTransactions = new List<Transaction>();
 
 
-
         public BankAccount(string name, decimal initialBalance)
         {
             this.Owner = name;
@@ -62,6 +61,20 @@ namespace MySuperBank
 
             var withdrawal = new Transaction(-amount, date, note);
             allTransactions.Add(withdrawal);
+        }
+
+        public string GetAccountHistory()
+        {
+            var report = new StringBuilder();
+
+            report.AppendLine("Date\t\t\tAmount\tNote");
+
+            foreach (var item in allTransactions)
+            {
+                report.AppendLine($"{item.Date}\t{item.Amount}\t{item.Notes}");
+            }
+
+            return report.ToString();
         }
     }
 }
